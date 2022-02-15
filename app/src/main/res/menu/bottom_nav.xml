@@ -6,8 +6,11 @@
         android:title="TODAY" />
 
     <item
-        android:id="@+id/currentWeatherFragment2"
+        android:id="@+id/futureListWeatherFragment"
         android:icon="@drawable/ic_baseline_calendar_7days_24"
         android:title="7 Days" />
 
+    <item
+        android:id="@+id/settingsFragment"
+        android:title="Settings"/>
 </menu>
